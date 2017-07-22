@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1630.4357"
+   height="33.559998"
+   viewBox="0 0 431.3861 8.8794169"
+   version="1.1"
+   id="svg5592"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="help_text.svg"
+   inkscape:export-filename="/home/telemin/downloads/grub2-gentoo-flat/theme/help_text.png"
+   inkscape:export-xdpi="45.77092"
+   inkscape:export-ydpi="45.77092">
+  <defs
+     id="defs5586" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="619.57107"
+     inkscape:cy="-1.0925099"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1036"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5589">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.18898812,-303.53469)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.29029328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6198"
+       width="431.38599"
+       height="8.8789997"
+       x="-1.2107193e-08"
+       y="303.5351" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="foreground"
+     transform="translate(0.18898812,-11.826368)"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#8d86bc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-0.58172899"
+       y="-4.3545032"
+       id="text6139"><tspan
+         sodipodi:role="line"
+         x="-0.58172899"
+         y="5.1784806"
+         style="fill:#8d86bc;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan6141" /><tspan
+         sodipodi:role="line"
+         x="-0.58172899"
+         y="18.864285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8d86bc;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan6228"><tspan
+   style="font-weight:bold"
+   id="tspan6192">enter</tspan> to boot selected OS, <tspan
+   style="font-weight:bold"
+   id="tspan6230">e</tspan> to edit selected entry, <tspan
+   style="font-weight:bold"
+   id="tspan6232">c</tspan> to enter grub command line.</tspan></text>
+  </g>
+</svg>
